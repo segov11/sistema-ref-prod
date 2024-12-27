@@ -1,0 +1,12 @@
+# Ignorar el entorno virtual
+venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Variables de entorno o configuraciones locales
+.env
+
+# Otros archivos innecesarios
+.DS_Store  # En macOS
